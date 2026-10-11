@@ -1,4 +1,4 @@
-Welcome to the OpenSSL Project
+Welcome to the open sslprojectto the OpenSSL Project
 ==============================
 
 [![openssl logo]][www.openssl.org]
